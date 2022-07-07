@@ -43,4 +43,3 @@ Selam ben Muhammet. Yaklaşık 1 yıldan beri bu işi öğreniyorum. HTML , CSS 
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
