@@ -1,4 +1,4 @@
-Selam ben Muhammet. Yaklaşık 1 yıldan beri bu işi öğreniyorum. HTML , CSS ve SCSS deneyimim var. Şu Anda ise JavaScript öğrenip kendimi geliştiriyorum. Aşağıda bulunan sosyal medya hesaplarımdan bana ulaşabilirsiniz.
+Selam ben Muhammet. Yaklaşık 2 yıldan beri bu işi öğreniyorum. HTML , CSS , SCSS , JavaScript , React , Npm  deneyimim var. Şu Anda ise Projeler yapıp kendimi geliştiriyorum. Aşağıda bulunan sosyal medya hesaplarımdan bana ulaşabilirsiniz.
   
 
 <br/>  
